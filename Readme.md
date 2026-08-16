@@ -91,7 +91,7 @@ support\_tickets      Customer support
 
 ## 📂 Project Structure
 
-=
+
 RetailHub-SQL-Analytics/
 │
 ├── README.md
